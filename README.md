@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/BhanuPratapSingh3105/BhanuPratapSingh3105/blob/main/My%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
 <h3 align="center">A Passionate Web developer from India</h3>
 
