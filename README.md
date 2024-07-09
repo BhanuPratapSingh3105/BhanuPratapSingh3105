@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanupratapsingh3105&show_icons=true&locale=en" alt="bhanupratapsingh3105" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bhanupratapsingh3105%40gmail.com" alt="GitHub Streak" /></a>
