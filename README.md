@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
 <h3 align="center">A Passionate Web developer from India</h3>
 
-<img align="right" alt="coder" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4">
+<img align="right" alt="coder" width="400" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanupratapsingh3105&label=Profile%20views&color=0e75b6&style=flat" alt="bhanupratapsingh3105" /> </p>
 
